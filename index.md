@@ -1,3 +1,4 @@
+<center>
 <h1>Testando o livro de Kouzlo<h1>
   <h3>Eu encontrei cartas que contavam sobre um mundo magico! Leia este site.</h3>
   <h3>Ontem, dia 29 de dezembro de 2020, eu estava na casa de minha vo brincando com meus primos, nos acabamos achando uma caixa com varias cartas escritas por um tal de Perades e enviadas a um parente meu que viveu a muito tempo atras. Lendo algumas cartas descobrimos que se tratava de um, suposto, mundo magico. Meus primos acharam bobeira mas eu acabei me apegando as cartas. Hoje resolvi postar elas em forma de livro neste site abaixo:</h3>
